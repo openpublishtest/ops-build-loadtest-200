@@ -13,7 +13,8 @@
     }
   ],
   "notification_subscribers": ["opbuild@microsoft.com"],
-  "branches_to_filter": ["live"]
+  "branches_to_filter": ["live"],
+  "package_version": "1.6-alpha-029-gba8b26f"
 }
 
 
